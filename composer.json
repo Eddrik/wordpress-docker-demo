@@ -39,7 +39,7 @@
 	]
 },
 	"extra": {
-	"wordpress-env-dir" : "/root/wordpress-docker-demo/ci/.env",
+	"wordpress-env-dir" : "ci",
 	"installer-paths": {
       "web/wp-content/plugins/{$name}/": ["type:akismet"],
       "web/wp-content/themes/{$name}/": ["type:hueman"]
